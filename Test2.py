@@ -51,7 +51,7 @@ def detect_people(frame, model, device, imgsz=640, conf_thres=0.25, iou_thres=0.
 
 # 開啟攝像頭
 # 設定攝影機 ID
-camera_id = 1
+camera_id = 0
 
 # 設定解析度
 width = 640
