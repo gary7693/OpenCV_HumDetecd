@@ -6,7 +6,7 @@ from PIL import Image
 
 # 開啟攝像頭
 # 設定攝影機 ID
-camera_id = 1
+camera_id = 0
 
 # 設定解析度
 width = 640
